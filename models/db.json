@@ -1,0 +1,93 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "name": "Игорь",
+      "email": "i.tka4yk@gmail.com",
+      "message": "Тестовое сообщение!"
+    },
+    {
+      "id": 1,
+      "name": "Лена",
+      "email": "elena.suvorova89@gmail.com",
+      "message": "Мое тестовое сообщение"
+    },
+    {
+      "id": "IAbmJ32p0",
+      "name": "Зинаида",
+      "email": "zina.panaetova@gmail.com",
+      "message": "Что-то новенькое"
+    }
+  ],
+  "skills": {
+    "age": {
+      "number": "27",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    "concerts": {
+      "number": "6",
+      "text": "Концертов отыграл"
+    },
+    "cities": {
+      "number": "11",
+      "text": "Максимальное число городов в туре"
+    },
+    "years": {
+      "number": "8",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  },
+  "auth": {
+    "admin": {
+      "email": "I.Tka4yk@gmail.com",
+      "pass": "pa$$w0rd"
+    }
+  },
+  "products": [
+    {
+      "src": "\\upload\\carrot.jpg",
+      "name": "Морковь",
+      "price": "20"
+    },
+    {
+      "src": "\\upload\\Work1.jpg",
+      "name": "Балалайка",
+      "price": "600"
+    },
+    {
+      "src": "\\upload\\Work2.jpg",
+      "name": "Бутылка",
+      "price": "400"
+    },
+    {
+      "src": "\\upload\\Work3.jpg",
+      "name": "Очки",
+      "price": "785"
+    },
+    {
+      "src": "\\upload\\Work4.jpg",
+      "name": "Брюки",
+      "price": "1025"
+    },
+    {
+      "src": "\\upload\\Work5.jpg",
+      "name": "Комплект",
+      "price": "2680"
+    },
+    {
+      "src": "\\upload\\Work6.jpg",
+      "name": "Стакан",
+      "price": "450"
+    },
+    {
+      "src": "\\upload\\Work7.jpg",
+      "name": "Печатная машинка",
+      "price": "4520"
+    },
+    {
+      "src": "\\upload\\Work8.jpg",
+      "name": "Люстра",
+      "price": "980"
+    }
+  ]
+}
